@@ -1,0 +1,17 @@
+export const DEFAULT_PLAYERS = [
+  "Bianca",
+  "Flavio",
+  "Gabi",
+  "JuMartins",
+  "JuCarmo",
+  "Kelly",
+  "Lilian",
+  "Lucas",
+  "Luis",
+  "Ota",
+  "Polly",
+  "Rubia",
+  "Vanessa",
+  "Victor",
+  "Wolney",
+];
